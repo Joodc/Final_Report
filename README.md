@@ -42,3 +42,20 @@ phpMyAdmin
 androidstudio  
 
 ### 4. 구현 동영상
+
+### 5. 사용기술
+
+**Splash Activity**  
+
+**데이터베이스**  
+
+**회원가입 및 로그인**  
+
+**Google Map API**  
+
+**찜기능**
+
+**전화기능**
+
+**리뷰기능**
+### 6. 
