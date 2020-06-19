@@ -30,3 +30,8 @@
 추가적으로, 치킨 카테고리를 보면 각 브랜드 별로 브랜드를 대표하는 대표메뉴가 있다.  
 교촌치킨 - 교촌 허니콤보, BHC - 뿌링클, BBQ - 황금올리브 등 브랜드마다 특색있는 메뉴가 있다.  
 이러한 점을 이용하여 브랜드별 / 메뉴별 카테고리를 추가하여 고객들이 주문할때 좀 더 편리하게 주문할 수 있게 하고자 한다.  
+
+### 3. 개발 환경
+![phplogo](https://user-images.githubusercontent.com/62701551/85113128-c37bff80-b251-11ea-9bbf-78147e9a5830.png)
+![androidlogo](https://user-images.githubusercontent.com/62701551/85113140-c676f000-b251-11ea-8863-d20db586a409.png)
+
