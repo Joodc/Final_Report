@@ -39,5 +39,5 @@ phpMyAdmin
 
 ![androidlogo](https://user-images.githubusercontent.com/62701551/85113140-c676f000-b251-11ea-8863-d20db586a409.png)  
 
-Android Studio  
+androidstudio  
 
