@@ -55,7 +55,7 @@ androidstudio
 ![oish_logo](https://user-images.githubusercontent.com/62701551/85263230-d25cef00-b4a9-11ea-8332-aa61aaa6c4c6.png)
 
 **4.2 스플래쉬**
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![스플래쉬](https://img.youtube.com/vi/NvPZMBDKh7Y/0.jpg)](https://www.youtube.com/watch?v=NvPZMBDKh7Y)
 
 ### 5. 구현 동영상
 
