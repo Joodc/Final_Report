@@ -45,6 +45,9 @@ phpMyAdmin
 
 androidstudio  
 
+![image](https://user-images.githubusercontent.com/62701551/85309754-03f7a980-b4ee-11ea-98f3-2601e034ba72.png)   
+Java  
+
 ## 4. 애플리케이션 소개  
 이 애플리케이션은 배달의민족을 사용하면서 개선되었으면 하는 부분을 개선하였다.   
 리뷰창을 세분화하여 고객이 원하는 음식의 리뷰를 꼼꼼하게 확인한 후 주문할 수 있다.  
