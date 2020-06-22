@@ -55,6 +55,8 @@ androidstudio
 ### 6. 사용기술
 
 **Splash Activity**  
+https://www.youtube.com/watch?v=NvPZMBDKh7Y/maxresdefault.jpg
+
 
 **데이터베이스**  
 
