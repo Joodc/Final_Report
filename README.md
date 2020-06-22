@@ -45,7 +45,7 @@ phpMyAdmin
 
 androidstudio  
 
-![image](https://user-images.githubusercontent.com/62701551/85309754-03f7a980-b4ee-11ea-98f3-2601e034ba72.png)   
+![자바](https://user-images.githubusercontent.com/62701551/85309928-4caf6280-b4ee-11ea-9580-e3d5099bea47.png)    
 Java  
 
 ## 4. 애플리케이션 소개  
