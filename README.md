@@ -73,7 +73,6 @@ Java
 **Splash Activity**  
 
 **데이터베이스**   
-![phpphoto](https://user-images.githubusercontent.com/62701551/85316783-458d5200-b4f8-11ea-9b0a-525bfa02984e.png)  
 
 phpMyAdmin은 MySQL을 웹 상에서 관리할 목적으로 PHP로 작성한 오픈 소스 도구, 즉 MySQL Client 툴이다. 데이터베이스, 테이블, 필드, 열의 작성, 수정, 삭제, SQL 상태 실행, 사용자 및 사용 권한 관리 등의 다양한 작업을 웹 상에서 편리하게 수행할 수 있다.    
 
