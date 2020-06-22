@@ -58,9 +58,8 @@ androidstudio
 [![스플래쉬](https://img.youtube.com/vi/NvPZMBDKh7Y/0.jpg)](https://www.youtube.com/watch?v=NvPZMBDKh7Y)
 
 **4.3 초기화면**
-![오이시1](https://user-images.githubusercontent.com/62701551/85306988-40290b00-b4ea-11ea-9213-03fda1486f47.jpg)   
-![오이시2](https://user-images.githubusercontent.com/62701551/85306999-45865580-b4ea-11ea-8b02-3d9f0647fc2c.jpg)
-
+![오이시11](https://user-images.githubusercontent.com/62701551/85307659-23410780-b4eb-11ea-84d0-8d95d6c8bcbb.png)  
+![오이시22](https://user-images.githubusercontent.com/62701551/85307664-24723480-b4eb-11ea-8da5-065597a2e0f7.png)  
 
 ### 5. 구현 동영상
 
