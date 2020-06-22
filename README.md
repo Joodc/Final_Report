@@ -54,6 +54,7 @@ androidstudio
 고객들이 맛있는 음식을 주문하기를 바라는 마음을 담아 지은 로고이다.  
 ![oish_logo](https://user-images.githubusercontent.com/62701551/85263230-d25cef00-b4a9-11ea-8332-aa61aaa6c4c6.png)
 
+![Uploading oishi_splash.gif…]()
 
 ### 5. 구현 동영상
 
