@@ -57,8 +57,8 @@ androidstudio
 **4.2 스플래쉬**  
 [![스플래쉬](https://img.youtube.com/vi/NvPZMBDKh7Y/0.jpg)](https://www.youtube.com/watch?v=NvPZMBDKh7Y)
 
-**4.3 초기화면**
-![오이시11](https://user-images.githubusercontent.com/62701551/85307659-23410780-b4eb-11ea-84d0-8d95d6c8bcbb.png)  
+**4.3 초기화면**   
+![오이시11](https://user-images.githubusercontent.com/62701551/85307659-23410780-b4eb-11ea-84d0-8d95d6c8bcbb.png) 
 ![오이시22](https://user-images.githubusercontent.com/62701551/85307664-24723480-b4eb-11ea-8da5-065597a2e0f7.png)  
 
 ### 5. 구현 동영상
