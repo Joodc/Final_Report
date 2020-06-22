@@ -55,6 +55,7 @@ androidstudio
 ![oish_logo](https://user-images.githubusercontent.com/62701551/85263230-d25cef00-b4a9-11ea-8332-aa61aaa6c4c6.png)
 
 **4.2 스플래쉬**  
+이미지 클릭 ▼  
 [![스플래쉬](https://img.youtube.com/vi/NvPZMBDKh7Y/0.jpg)](https://www.youtube.com/watch?v=NvPZMBDKh7Y)
 
 **4.3 초기화면**   
