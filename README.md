@@ -52,7 +52,7 @@ androidstudio
 1. 로고 소개
 오이시(Oishi)는 오늘 이거 시켜먹을까의 줄임말로 '맛있다'의 일본어인 오이시(おいしい)를 뜻한다.  
 고객들이 맛있는 음식을 주문하기를 바라는 마음을 담아 지은 로고이다.  
-![oishilogo](https://user-images.githubusercontent.com/62701551/85262901-5e224b80-b4a9-11ea-8102-25c14447f10a.jpg)
+![oish_logo](https://user-images.githubusercontent.com/62701551/85263230-d25cef00-b4a9-11ea-8332-aa61aaa6c4c6.png)
 
 
 ### 5. 구현 동영상
