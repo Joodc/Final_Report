@@ -1,4 +1,4 @@
-# Andante Final Report
+v# Andante Final Report
 ## 목차  
 1. 프로젝트 개요  
 2. 프로젝트 목표  
@@ -55,7 +55,7 @@ androidstudio
 ![oish_logo](https://user-images.githubusercontent.com/62701551/85263230-d25cef00-b4a9-11ea-8332-aa61aaa6c4c6.png)
 
 **4.2 스플래쉬**
-{% include a.html id="NvPZMBDKh7Y"%}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ### 5. 구현 동영상
 
