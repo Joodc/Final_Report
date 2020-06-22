@@ -47,7 +47,11 @@ androidstudio
 
 ### 4. 애플리케이션 소개  
 이 애플리케이션은 배달의민족을 사용하면서 개선되었으면 하는 부분을 개선하였다. 
+리뷰창을 세분화하여 고객들이 편리하게 주문할 수 있다.  
 
+1. 로고 소개
+오이시(Oishi)는 오늘 이거 시켜먹을까의 줄임말로 '맛있다'의 일본어인 오이시(おいしい)를 뜻한다. 
+고객들이 맛있는 음식을 주문하기를 바라는 마음을 담아 지은 로고이다.
 
 
 ### 5. 구현 동영상
@@ -55,7 +59,6 @@ androidstudio
 ### 6. 사용기술
 
 **Splash Activity**  
-<iframe width="560" height="315" src=https://www.youtube.com/watch?v=NvPZMBDKh7Y frameborder="0" allowfullscreen></iframe>
 
 **데이터베이스**  
 
