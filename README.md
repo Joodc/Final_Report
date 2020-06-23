@@ -101,20 +101,6 @@ phpMyAdmin은 MySQL을 웹 상에서 관리할 목적으로 PHP로 작성한 오
 ## 7. 개선방안   
 결제 시스템, 가게 연동 부족    
 
-package com.example.oishi;
-
-import android.app.Activity;
-import android.content.Intent;
-import android.graphics.PixelFormat;
-import android.os.Bundle;
-import android.view.Window;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-
-import com.example.oishi.login.LoginActivity;
-
 public class Splashscreen extends Activity {
 
     Thread splashTread;
