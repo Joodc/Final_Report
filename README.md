@@ -86,8 +86,6 @@ FileZilla
 
 phpMyAdmin은 MySQL을 웹 상에서 관리할 목적으로 PHP로 작성한 오픈 소스 도구, 즉 MySQL Client 툴이다. 데이터베이스, 테이블, 필드, 열의 작성, 수정, 삭제, SQL 상태 실행, 사용자 및 사용 권한 관리 등의 다양한 작업을 웹 상에서 편리하게 수행할 수 있다.    
 
-
-
 **회원가입 및 로그인**  
 
 **Google Map API**  
@@ -100,3 +98,5 @@ phpMyAdmin은 MySQL을 웹 상에서 관리할 목적으로 PHP로 작성한 오
 
 ## 7. 개선방안   
 결제 시스템, 가게 연동 부족    
+
+[네이버](https://www.naver.com/)
