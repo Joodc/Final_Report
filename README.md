@@ -76,8 +76,8 @@ FileZilla
 ![오이시22](https://user-images.githubusercontent.com/62701551/85307664-24723480-b4eb-11ea-8da5-065597a2e0f7.png)  
 
 ## 5. 구현 동영상
-[오이시 어플 실행] "https://youtu.be/UGsIoWY1kjA"    
-[리뷰 등록] "https://youtu.be/i7R_uju76aw"    
+[![오이시 어플 실행] (https://youtu.be/UGsIoWY1kjA)    
+[![리뷰 등록] (https://youtu.be/i7R_uju76aw)    
 
 
 ## 6. 사용기술
