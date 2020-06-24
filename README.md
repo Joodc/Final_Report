@@ -1649,19 +1649,10 @@ public class DetailMenuFragment extends Fragment {
     }
 
 }
-package com.example.oishi.food_brand;
 
-import android.content.Context;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.BaseAdapter;
-import android.widget.ImageView;
-import android.widget.TextView;
 
-import com.example.oishi.R;
+**FoodBrandAdapter**
 
-import java.util.ArrayList;
 
 public class FoodBrandAdapter extends BaseAdapter {
     //FoodBrandAdapter에 추가된 데이터를 저장하기 위한 ArrayList
@@ -1723,26 +1714,9 @@ public class FoodBrandAdapter extends BaseAdapter {
     }
 }
 
-package com.example.oishi.food_brand;
 
-import android.app.ProgressDialog;
-import android.content.ContentValues;
-import android.content.Intent;
-import android.os.AsyncTask;
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ListView;
+**FoodBrandListFragment**
 
-import androidx.fragment.app.ListFragment;
-
-import com.example.oishi.FoodDetailActivity;
-import com.example.oishi.RequestHttpURLConnection;
-import com.google.gson.Gson;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 public class FoodBrandListFragment extends ListFragment {
     private FoodBrandAdapter adapter;
@@ -1856,7 +1830,9 @@ public class FoodBrandListFragment extends ListFragment {
     }
 }
 
-package com.example.oishi.food_brand;
+
+**FoodBrandListViewItem**
+
 
 public class FoodBrandListViewItem {
     //가게 이름
