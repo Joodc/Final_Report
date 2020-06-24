@@ -100,6 +100,8 @@ user_info에 관한 php들은 사용자의 핸드폰번호와 주소, 사용자�
 장바구니에 관한 php는 사용자가 선택한 물품을 데이터베이스에 저장해서 장바구니에 들어갔을 때 데이터베이스에 저장된 장바구니 물품들을 가져오고 구매가 끝나거나 장바구니 물품을 제거할 때 사용되도록 했습니다.
 
 **JAVA 코드**
+
+<pre><code>
 *LoginActivity*
 public class LoginActivity extends AppCompatActivity {
 
@@ -1644,7 +1646,7 @@ public class DetailMenuFragment extends Fragment {
     }
 
 }
-
+</code></pre>
 
 
 **Splash Activity**  
